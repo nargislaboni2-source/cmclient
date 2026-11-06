@@ -1,0 +1,8 @@
+Windows: Copy the cmpack_1.8.8 folder to the versions folder that you find in %appdata%/.minecraft
+Linux: Copy the cmpack_1.8.8 folder to the versions folder that you find in ~/.minecraft
+macOS: Copy the cmpack_1.8.8 folder to the versions folder that you find in ~/Library/Application Support/minecraft
+
+CMCLIENT 2.8.11 for Minecraft 1.8.8
+Build date: 10/9/2025, 8:13:27 PM CET
+
+Thank you for downloading the client, the www.cmclient.pl team.
